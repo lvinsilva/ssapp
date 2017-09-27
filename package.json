@@ -1,0 +1,23 @@
+{
+  "name": "ssapp",
+  "version": "1.0.0",
+  "description": "Sistema Simulador de Operações na Bolsa de Valores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvinsilva/ssapp.git"
+  },
+  "author": "SoftHaus IT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvinsilva/ssapp/issues"
+  },
+  "homepage": "https://github.com/lvinsilva/ssapp#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.5"
+  }
+}
